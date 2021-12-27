@@ -1,5 +1,5 @@
 console.log("Merhaba Kodlama.io")
-
+console.log("Try")
 //JS type safe değildir
 let dolarBugun = 9.31
 
